@@ -1,0 +1,2 @@
+hi this is for adding a new file into a new project
+this is for git commands 
